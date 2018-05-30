@@ -6,6 +6,16 @@
 
     <color name="white">#FFFFFF</color>
     <color name="transparent">#00000000</color>
-    <color name="gradStart">#19AA8B</color>
-    <color name="gradStop">#23A7D8</color>
+    <color name="gradStart">#69CE8E</color>
+    <color name="gradStop">#318750</color>
+    <!--
+    ************** Morado **************
+    <color name="gradStart">#9769CE</color>
+    <color name="gradStop">#7934CB</color>
+    ************** Azul **************
+    <color name="gradStart">#5D85C6</color>
+    <color name="gradStop">#325285</color>
+    ************** Anaranjado **************
+    <color name="gradStart">#ED4335</color>
+    <color name="gradStop">#DC4F28</color>-->
 </resources>
